@@ -1,0 +1,12 @@
+﻿  WindowParameters.cpp
+C:\Users\jmisi\OneDrive\Desktop\Nonogram\Nonogram\WindowParameters.cpp(5,140): warning C4244: "=": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\jmisi\OneDrive\Desktop\Nonogram\Nonogram\WindowParameters.cpp(6,140): warning C4244: "=": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Nonogram.vcxproj -> C:\Users\jmisi\OneDrive\Desktop\Nonogram\x64\Debug\Nonogram.exe
